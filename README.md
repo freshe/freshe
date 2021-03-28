@@ -1,4 +1,4 @@
-- 👋 Hi
+👋 Hi
 
 https://www.fredrikblank.com
 
